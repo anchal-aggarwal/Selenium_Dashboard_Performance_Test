@@ -1,18 +1,18 @@
-Jun 07, 2019 5:43:46 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+Jun 12, 2019 9:24:48 AM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 46923
+Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 38265
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Jun 07, 2019 5:43:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jun 12, 2019 9:24:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
-3.313 seconds
+x seconds
 
-Jun 07, 2019 5:43:56 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+Jun 12, 2019 9:24:55 AM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 14672
+Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 47877
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Jun 07, 2019 5:43:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jun 12, 2019 9:24:57 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
-2.833 seconds
+1.703 seconds
 
